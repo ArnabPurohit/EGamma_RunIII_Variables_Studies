@@ -1,6 +1,6 @@
 #include "FWCore/MessageLogger/interface/MessageLogger.h"
-#include "PhotonDemoAnalyzer/PhotonAnalyzer/plugins/PhotonAnalyzer.h"
-#include "PhotonDemoAnalyzer/PhotonAnalyzer/plugins/genParticleParentage.h"
+#include "EGamma_RunIII_Variables_Studies/PhotonAnalyzer/plugins/PhotonAnalyzer.h"
+#include "EGamma_RunIII_Variables_Studies/PhotonAnalyzer/plugins/genParticleParentage.h"
 
 using namespace std;
 float genWeight_;

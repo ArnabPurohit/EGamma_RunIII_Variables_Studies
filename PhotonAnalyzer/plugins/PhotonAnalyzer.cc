@@ -1,9 +1,9 @@
 // -*- C++ -*-
 //
-// Package:    PhotonDemoAnalyzer/PhotonAnalyzer
+// Package:    EGamma_RunIII_Variables_Studies/PhotonAnalyzer
 // Class:      PhotonAnalyzer
 //
-/**\class PhotonAnalyzer PhotonAnalyzer.cc PhotonDemoAnalyzer/PhotonAnalyzer/plugins/PhotonAnalyzer.cc
+/**\class PhotonAnalyzer PhotonAnalyzer.cc EGamma_RunIII_Variables_Studies/PhotonAnalyzer/plugins/PhotonAnalyzer.cc
 
  Description: [one line class summary]
 
