@@ -1,6 +1,6 @@
 # Shower-shape Variable Redefinition for Run-III
 
-This repository contains the CMSSW analyser which can be used to study different definitions of photon R9 or other shower-shape variables for Run-III of LHC in CMS EGamma-POG. The purpose of the redefinition is to make them unaffected by change in PF-RecHit-Thresold or PU as much as possible.
+This repository contains the CMSSW analyser which can be used to study different definitions of photon R9 or other shower-shape variables for Run-III of LHC in CMS EGamma-POG. The purpose of the redefinition is to make them unaffected by the change in PF-RecHit-Thresold or PU as much as possible.
 
 ## Instructions
 Below are the instructions for preparing the environment, producing the flat nTuples and finally making the plots from those nTuples.
