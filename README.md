@@ -6,11 +6,11 @@ This repository contains the CMSSW analyser which can be used to study different
 Below are the instructions for preparing the environment, producing the flat nTuples and finally making the plots from those nTuples.
 
 ### Setup
-cmsrel CMSSW_10_6_1_patch1
-cd CMSSW_10_6_1_patch1/src
-cmsenv
-git clone https://github.com/ArnabPurohit/EGamma_RunIII_Variables_Studies
-scram b -j 4
+* cmsrel CMSSW_10_6_1_patch1
+* cd CMSSW_10_6_1_patch1/src
+* cmsenv
+* git clone https://github.com/ArnabPurohit/EGamma_RunIII_Variables_Studies
+* scram b -j 4
 
 ### Flat nTuple production
 
