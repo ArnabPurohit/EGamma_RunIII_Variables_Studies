@@ -28,8 +28,10 @@ python crabConfig_25ns.py
 
 ### Making the final plots
 
-After producing the nTuples use 
- 1. test/plots_from_histos_forsig_vs_bkg.py
- 2. test/plots_from_histos.py
- 3. test/myROC_maker.C
- 4. test/myROC_maker_alltogether.C
+After producing the nTuples use the following files to make the histograms (using 1 and 2) and plots (using 3-6). 
+ 1. test/tree_analyser.C
+ 2. test/bkgtree_analyser.C
+ 3. test/plots_from_histos_forsig_vs_bkg.py
+ 4. test/plots_from_histos.py
+ 5. test/myROC_maker.C
+ 6. test/myROC_maker_alltogether.C
