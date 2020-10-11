@@ -1,3 +1,9 @@
+//############################################################################
+// Date 6 Oct 2020
+// Made by Arnab Purohit, Saha Institute of Nuclear Physics, Kolkata, India
+// Following ggNtuplizer by cmkuo
+//############################################################################
+
 #include <TString.h>
 #include "FWCore/MessageLogger/interface/MessageLogger.h"
 #include "RecoEcal/EgammaCoreTools/interface/EcalClusterLazyTools.h"

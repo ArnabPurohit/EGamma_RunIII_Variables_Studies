@@ -1,3 +1,7 @@
+############################################################################
+## Date 6 Oct 2020
+## Made by Arnab Purohit, Saha Institute of Nuclear Physics, Kolkata, India
+############################################################################
 
 from ROOT import TFile, TH1F, TH1D, kRed, kBlue, kGreen, TCanvas, gStyle, TLegend
 
