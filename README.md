@@ -29,7 +29,7 @@ python crabConfig_25ns.py
 ### Making the final plots
 
 After producing the nTuples use 
-test/plots_from_histos_forsig_vs_bkg.py
-test/plots_from_histos.py
-test/myROC_maker.C
-test/myROC_maker_alltogether.C
+ 1. test/plots_from_histos_forsig_vs_bkg.py
+ 2. test/plots_from_histos.py
+ 3. test/myROC_maker.C
+ 4. test/myROC_maker_alltogether.C
